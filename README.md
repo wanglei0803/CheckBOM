@@ -1,4 +1,4 @@
-This is a Chinese project.
-skype: wanglei0803@126.com  wecat: Kaixinsanshi
-Please link me in Chinese.
-thank you.
+This is a Chinese project. <br />
+skype: wanglei0803@126.com  wecat: Kaixinsanshi  <br />
+Please link me in Chinese.  <br />
+thank you.  <br />
